@@ -43,10 +43,10 @@ fun_fact:    I turn "it works on my machine" into "it works. period."
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anshyadav3306&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anshyadav3306&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" width="48%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anshyadav3306&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=c9d1d9&cache_seconds=1800" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=anshyadav3306&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshyadav3306&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anshyadav3306&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=c9d1d9&cache_seconds=1800" width="48%" />
 
 </div>
 
@@ -56,11 +56,11 @@ fun_fact:    I turn "it works on my machine" into "it works. period."
 
 <div align="center">
 
-[![CivicReportApp](https://github-readme-stats.vercel.app/api/pin/?username=anshyadav3306&repo=CivicReportApp&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=c9d1d9)](https://github.com/anshyadav3306/CivicReportApp)
-[![counselling_system](https://github-readme-stats.vercel.app/api/pin/?username=anshyadav3306&repo=counselling_system&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=c9d1d9)](https://github.com/anshyadav3306/counselling_system)
+[![CivicReportApp](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=anshyadav3306&repo=CivicReportApp&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=c9d1d9&cache_seconds=1800)](https://github.com/anshyadav3306/CivicReportApp)
+[![counselling_system](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=anshyadav3306&repo=counselling_system&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=c9d1d9&cache_seconds=1800)](https://github.com/anshyadav3306/counselling_system)
 
-[![my-react-app](https://github-readme-stats.vercel.app/api/pin/?username=anshyadav3306&repo=my-react-app&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=c9d1d9)](https://github.com/anshyadav3306/my-react-app)
-[![goyamaenginebase](https://github-readme-stats.vercel.app/api/pin/?username=anshyadav3306&repo=goyamaenginebase&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=c9d1d9)](https://github.com/anshyadav3306/goyamaenginebase)
+[![my-react-app](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=anshyadav3306&repo=my-react-app&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=c9d1d9&cache_seconds=1800)](https://github.com/anshyadav3306/my-react-app)
+[![goyamaenginebase](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=anshyadav3306&repo=goyamaenginebase&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=c9d1d9&cache_seconds=1800)](https://github.com/anshyadav3306/goyamaenginebase)
 
 </div>
 
