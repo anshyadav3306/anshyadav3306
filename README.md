@@ -85,7 +85,7 @@ anshyadav3306@github:~$ fortune | cowsay -f terminal
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anshyadav3306&theme=react-dark&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anshyadav3306&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" width="90%"/>
 
 </div>
 
