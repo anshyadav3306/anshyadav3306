@@ -4,6 +4,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+cool+stuff+with+React+%26+JS;Turning+ideas+into+code;Always+shipping+something+new;Open+to+collaborate+%F0%9F%9A%80" alt="Typing SVG" />
 
+<br/>
+
+![Status](https://img.shields.io/badge/status-available%20for%20freelance-00FF00?style=for-the-badge&labelColor=0D1117)
+![Profile Views](https://komarev.com/ghpvc/?username=anshyadav3306&color=00ff00&style=for-the-badge&label=TERMINAL+VISITS)
+
 </div>
 
 <br/>
@@ -17,12 +22,23 @@ name:        Ansh Yadav
 role:        Full Stack Developer
 focus:       Web Apps · React · JavaScript · Real-world projects
 currently:   Building CivicReportApp & counselling_system
+learning:    Advanced backend architecture & system design
 fun_fact:    I turn "it works on my machine" into "it works. period."
 ```
 
 <br/>
 
-### `$ ls tech-stack/`
+```bash
+anshyadav3306@github:~$ fortune | cowsay -f terminal
+```
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+────────────────`$ ls tech-stack/`────────────────
 
 <div align="center">
 
@@ -39,7 +55,20 @@ fun_fact:    I turn "it works on my machine" into "it works. period."
 
 <br/>
 
-### `$ ./run --stats`
+### `$ cat skills-matrix.yaml`
+
+| Skill | Proficiency |
+|---|---|
+| JavaScript | ████████████████░░░░ 80% |
+| React | ███████████████░░░░░ 75% |
+| Node.js | █████████████░░░░░░░ 65% |
+| HTML/CSS | ██████████████████░░ 90% |
+| Git/GitHub | ███████████████░░░░░ 75% |
+| System Design | ██████████░░░░░░░░░░ 50% |
+
+<br/>
+
+────────────────`$ ./run --stats`────────────────
 
 <div align="center">
 
@@ -52,7 +81,29 @@ fun_fact:    I turn "it works on my machine" into "it works. period."
 
 <br/>
 
-### `$ cat featured-projects.log`
+### `$ ./render --contribution-graph-3d`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anshyadav3306&theme=react-dark&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true" width="90%"/>
+
+</div>
+
+<br/>
+
+### `$ ./run --snake-eating-commits`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/anshyadav3306/anshyadav3306/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+
+<sub>⚠️ Snake animation needs one-time setup — see instructions below</sub>
+
+</div>
+
+<br/>
+
+────────────────`$ cat featured-projects.log`────────────────
 
 <div align="center">
 
@@ -66,20 +117,37 @@ fun_fact:    I turn "it works on my machine" into "it works. period."
 
 <br/>
 
-### `$ ./connect --socials`
+### `$ tail -n 5 blog-feed.log`
+<!-- BLOG-POST-LIST:START -->
+<!-- Once you set up the blog workflow, your latest posts auto-populate here -->
+<!-- BLOG-POST-LIST:END -->
+
+<br/>
+
+### `$ cat achievements.log`
+
+```yaml
+🏆 achievements:
+  - "Add your certifications here, e.g. freeCodeCamp / Coursera / Udemy"
+  - "Hackathon participations go here"
+  - "Any GitHub Achievements badges auto-show on your profile page already"
+```
+
+<br/>
+
+────────────────`$ ./connect --socials`────────────────
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/ansh-yadav-b65bb2259)
 [![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF00)](https://github.com/anshyadav3306)
+[![Resume](https://img.shields.io/badge/-Resume-000000?style=for-the-badge&logo=googledrive&logoColor=00FF00)](#)
 
 </div>
 
 <br/>
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=anshyadav3306&color=00ff00&style=flat-square&label=terminal+visits)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0f0f0f&height=100&section=footer"/>
 
